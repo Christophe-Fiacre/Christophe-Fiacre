@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-![back_solution](https://github.com/Christophe-Fiacre/Christophe-Fiacre/assets/137292970/08ae779e-79f2-4ca7-a1bf-5798185a1d00)
 
 
 <!--
