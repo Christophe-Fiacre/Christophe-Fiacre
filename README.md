@@ -2,7 +2,7 @@
 
 
 
-<a href="https://img.freepik.com/photos-premium/abstrait-point-interrogation-numerique-futuriste-low-poly-wireframe-demander-symbole_887552-32212.jpg?w=900" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+<a href="https://img.freepik.com/photos-premium/fond-polygonale-creatif_670147-4152.jpg?w=900" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 
 <!--
 **Christophe-Fiacre/Christophe-Fiacre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
