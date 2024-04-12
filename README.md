@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
+![back_solution](https://github.com/Christophe-Fiacre/Christophe-Fiacre/assets/137292970/08ae779e-79f2-4ca7-a1bf-5798185a1d00)
 
-<a href="https://img.freepik.com/photos-premium/fond-polygonale-creatif_670147-4152.jpg?w=900" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 
 <!--
 **Christophe-Fiacre/Christophe-Fiacre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
