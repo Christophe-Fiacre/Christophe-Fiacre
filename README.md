@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi, I'm Christophe 👋
+<a href="https://www.flaticon.com/free-icons/web-page" title="web page icons">Web page icons created by Freepik - Flaticon</a>
 
-
-
+![Github](https://github.com/Christophe-Fiacre/Christophe-Fiacre/assets/137292970/9399f36d-966c-4e40-b4c8-0a388a61dc9e)
 
 <!--
 **Christophe-Fiacre/Christophe-Fiacre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
