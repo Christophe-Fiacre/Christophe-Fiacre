@@ -1,6 +1,6 @@
 ### Hi, I'm Christophe 👋 
+
 ![Github1](https://github.com/Christophe-Fiacre/Christophe-Fiacre/assets/137292970/381b3673-84b7-46c7-9297-fc0a7ae467f3)
-![Github](https://github.com/Christophe-Fiacre/Christophe-Fiacre/assets/137292970/9399f36d-966c-4e40-b4c8-0a388a61dc9e)
 
 <!--
 **Christophe-Fiacre/Christophe-Fiacre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
